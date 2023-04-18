@@ -6,6 +6,8 @@ This is the f@&amp;!king awesome tool osi too for instagram
 
 `$ pkg install -y git`
 
+`$ pkg install python`
+
 `$ git clone https://github.com/ethiprince/insta && cd insta`
 
 `$ python req.py`
