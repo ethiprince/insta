@@ -12,6 +12,6 @@ This is the f@&amp;!king awesome tool osi too for instagram
 
 `$ python ins.py`
 
-## • Proof
+Subscribe https://youtu.be/ethiprince
 
 
