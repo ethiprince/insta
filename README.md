@@ -1,5 +1,5 @@
 # insta
-This is the f@&amp;!king awesome tool osi too for instagram 
+This is the f@&amp;!king awesome tool osi tool for instagram 
 ## • How To Install
 
 
