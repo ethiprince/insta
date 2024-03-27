@@ -1,5 +1,5 @@
 # insta
-This is the f&amp;!king awesome tool osi tool for instagram 
+This is the f&amp;!king awesome tool OSI tool for instagram 
 ## • How To Install
 
 
@@ -14,6 +14,7 @@ This is the f&amp;!king awesome tool osi tool for instagram
 
 `$ python ins.py`
 
-Subscribe https://youtube.com/@ethicalprince
+# Subscribe
+https://youtube.com/@ethicalprince
 
 
